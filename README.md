@@ -1,2 +1,2 @@
 # Vector-Processing-Unit
-Vector Processing Unit made in Logism 
+Design and implement the VPU in **Logism** so that the CPU can run programs that use vector instructions.
